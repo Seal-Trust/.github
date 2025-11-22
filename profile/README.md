@@ -61,9 +61,11 @@ graph LR
 
 ## Live Services
 
-| Service | URL |
-|---------|-----|
-| Nautilus TEE | `https://nautilus.sealtrust.app` |
+| Service | Endpoint |
+|---------|----------|
+| Health Check | [`https://nautilus.sealtrust.app/health`](https://nautilus.sealtrust.app/health) |
+| Get Attestation | [`https://nautilus.sealtrust.app/get_attestation`](https://nautilus.sealtrust.app/get_attestation) |
+| Verify Metadata | `POST https://nautilus.sealtrust.app/verify_metadata` |
 
 ## Tech Stack
 
