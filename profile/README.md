@@ -1,10 +1,22 @@
-# SealTrust
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Seal-Trust/seal-media/main/SealTrust-Banner.png" alt="SealTrust Banner" width="100%"/>
+</p>
 
-**Cryptographic Verification and Encrypted Storage for AI Training Datasets**
+<p align="center">
+  <strong>Cryptographic Verification and Encrypted Storage for AI Training Datasets</strong>
+</p>
 
-Built on Sui | Walrus | Seal | Nautilus TEE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Seal-Trust/seal-media/main/sui-logo.svg" alt="Sui" height="30"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Seal-Trust/seal-media/main/walrus-logo.svg" alt="Walrus" height="30"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Seal-Trust/seal-media/main/seal-logo.svg" alt="Seal" height="30"/>
+</p>
 
-**Trust. Encrypt. Verify.**
+<p align="center">
+  <strong>Trust. Encrypt. Verify.</strong>
+</p>
 
 ---
 
