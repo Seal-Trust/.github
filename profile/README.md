@@ -114,3 +114,42 @@ AWS Nitro Enclave for hardware-attested verification. Even AWS cannot access the
 
 </details>
 
+## Roadmap
+
+### Completed
+
+- [x] Core smart contracts (DatasetNFT, verification)
+- [x] Nautilus TEE enclave deployment (AWS Nitro)
+- [x] Seal encryption integration
+- [x] Walrus storage integration
+- [x] Dataset registration flow
+- [x] Dataset verification flow
+- [x] Access control (allowlist-based)
+- [x] Frontend app (sealtrust.app)
+- [x] Documentation site (docs.sealtrust.app)
+- [x] Testnet deployment
+
+### In Progress
+
+- [ ] Batch dataset registration
+- [ ] Dataset search & discovery
+- [ ] Enhanced access management UI
+
+### Planned
+
+- [ ] Mainnet deployment
+- [ ] SDK for developers
+- [ ] CLI tool
+- [ ] API rate limiting & quotas
+- [ ] Dataset categories & tags
+- [ ] Organization accounts
+- [ ] Audit logging
+
+## Links
+
+| | |
+|---|---|
+| **App** | [sealtrust.app](https://sealtrust.app) |
+| **Docs** | [docs.sealtrust.app](https://docs.sealtrust.app) |
+| **X (Twitter)** | [@sealtrust](https://x.com/sealtrust) |
+
