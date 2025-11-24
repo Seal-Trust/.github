@@ -151,5 +151,5 @@ AWS Nitro Enclave for hardware-attested verification. Even AWS cannot access the
 |---|---|
 | **App** | [sealtrust.app](https://sealtrust.app) |
 | **Docs** | [docs.sealtrust.app](https://docs.sealtrust.app) |
-| **X (Twitter)** | [@sealtrust](https://x.com/sealtrust) |
+| **X (Twitter)** | [@sealtrust](https://x.com/seal_trust) |
 
